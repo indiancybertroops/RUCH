@@ -17,4 +17,5 @@ Installation command:
 	 pip install requests
 	 pip install colorama 
 use: python dashboard.py
-paste your admin panel link of victim site and it will give you bypass path?? 
+paste your admin panel link of victim site and it will give you bypass path
+
