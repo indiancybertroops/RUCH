@@ -1,9 +1,9 @@
 # RUCH Framework
 Bypass admin panel dashboard finder for Beginner 
 																	
-#R-U-C-H framework 					         	
-	> Author :MR. H4MMM3R (TEAM ICT		             
-	> Software: Python 							                    	
+# R-U-C-H framework (Research Utilise And Channelize)				         	
+>Author :MR. Sharma (TEAM ICT)		             
+>Software: Python 							                    	
 > Module: Requests, Coloram					          	
 		
 
