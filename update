@@ -1,6 +1,6 @@
 toilet -f mono12 -F border:gay 'RUCH'
 apt install toilet -y
-clear
+
 toilet -f mono12 -F border:metal 'ICT'
 apt update && apt upgrade
 apt install python
