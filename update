@@ -1,20 +1,33 @@
 toilet -f mono12 -F border:gay 'RUCH'
+echo -e "\e[1;33mUpdating Ruch Framework Wait ...\e[0m"
+sleep 6
 apt install toilet -y
-
 toilet -f mono12 -F border:metal 'ICT'
+echo -e "\e[1;33m10% \e[0m"
+sleep 6
 apt update && apt upgrade
+echo -e "\e[1;33m30%\e[0m"
+echo -e "\e[1;38m50%\e[0m"
+sleep 5
 apt install python
 cd
+echo -e "\e[1;33m60%\e[0m"
+sleep 4
 rm -rf RUCH
 git clone https://github.com/indiancybertroops/RUCH
+echo -e "\e[1;33m100%\e[0m"
+sleep 4
+toilet -f mono12 -F border:metal 'Updated'
+sleep 5
 cd RUCH
 echo -e "\e[1;31mINSTALLED SUCCESSFULLY Run this with "python dashboard.py"\e[0m"
-
+sleep 6
 
 
 echo -e "\e[1;33mStarting script\e[0m"
+sleep 6
 
-cd ..
+cd 
 cd RUCH
 
 
