@@ -1,8 +1,7 @@
-clear
 apt install toilet -y
-clear 
-toilet -f mono12 -F border:metal 'ICT' 
-apt update && apt upgrade --yy 
+clear
+toilet -f mono12 -F border:metal 'ICT'
+apt update && apt upgrade
 apt install python
 cd
 rm -rf RUCH
@@ -10,5 +9,11 @@ git clone https://github.com/indiancybertroops/RUCH
 cd RUCH
 echo -e "\e[1;31mINSTALLED SUCCESSFULLY Run this with "python dashboard.py"\e[0m"
 
+
+
 echo -e "\e[1;33mStarting script\e[0m"
+
+
+
+
 python dashboard.py
