@@ -14,6 +14,8 @@ echo -e "\e[1;31mINSTALLED SUCCESSFULLY Run this with "python dashboard.py"\e[0m
 
 echo -e "\e[1;33mStarting script\e[0m"
 
+cd ..
+cd RUCH
 
 
 
