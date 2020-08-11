@@ -17,9 +17,23 @@ use:
 python dashboard.py
 ```
 paste your admin panel link of victim site and it will give you bypass path
+## Auto Update Added 
+>use this command to update automatically
+```
+
+chmod +x * && ./update
+```
+or
+```
+
+bash update
+```
+
+
 
 ## Contact Us: 
 >Facebook:
+
 https://facebook.com/indiancybertroops
 
 
