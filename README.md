@@ -6,6 +6,23 @@ Bypass admin panel dashboard finder for Beginner
 >Software: Python 							                    	
 > Module: Requests, Coloram					          	
 		
+# Clone Command 
+
+```
+apt update
+```
+```
+apt upgrade
+```
+```
+git clone https://github.com/indiancybertroops/RUCH
+```
+```
+chmod +x *
+```
+```
+python dashboard.py
+```
 
 Installation command:
 	
