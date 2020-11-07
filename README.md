@@ -16,6 +16,7 @@ apt upgrade
 ```
 ```
 git clone https://github.com/indiancybertroops/RUCH
+cd RUCH
 ```
 ```
 chmod +x *
