@@ -5,7 +5,7 @@ apt install toilet -y
 toilet -f mono12 -F border:metal 'ICT'
 echo -e "\e[1;33m10% \e[0m"
 sleep 6
-apt update && apt upgrade
+apt update -y
 echo -e "\e[1;33m30%\e[0m"
 echo -e "\e[1;38m50%\e[0m"
 sleep 5
